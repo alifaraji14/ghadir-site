@@ -499,7 +499,7 @@ export default function GhadirRSVP() {
         </div>
 
         {/* Hero body */}
-        <div style={{ maxWidth:"860px", margin:"0 auto", padding:"42px 24px 62px", textAlign:"center", position:"relative" }}>
+        <div style={{ maxWidth:"1200px", margin:"0 auto", padding:"42px 24px 62px", textAlign:"center", position:"relative" }}>
 
           {/* ornament line – alternating teal/gold dots */}
           <div className="a1" style={{ display:"flex", alignItems:"center", justifyContent:"center", gap:"10px", marginBottom:"22px" }}>
@@ -539,7 +539,7 @@ export default function GhadirRSVP() {
       </div>
 
       {/* ══ MAIN ══ */}
-      <div style={{ background:"#f2fdfb", maxWidth:"860px", margin:"0 auto", padding:"38px 20px 80px" }}>
+      <div style={{ background:"#f2fdfb", maxWidth:"1200px", margin:"0 auto", padding:"38px 20px 80px" }}>
 
         {/* Details */}
         <div style={card} className="sec-pad">
